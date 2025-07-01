@@ -1,5 +1,3 @@
-# HTML-task
-
 # AIM:
   To create a Webpage with Internal Navigation.
 
